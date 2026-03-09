@@ -1,1 +1,1 @@
-![Che](http://technofask.su/assets/images/che404.png "Che is programming")
+![Che](https://github.com/fat-chesnok/fat-chesnok/blob/main/che404.png "Che is programming")
